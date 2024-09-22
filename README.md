@@ -1,1 +1,0 @@
-# udpet-challenge-2024.github.io
