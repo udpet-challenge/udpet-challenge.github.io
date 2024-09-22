@@ -1,16 +1,35 @@
 ---
 layout: home
-title: Home
+title: Ultra-Low Dose PET Imaging (UDPET) Challenge 2024
 ---
 
-# Ultra-Low Dose PET Imaging (UDPET) Challenge
+Dear participants of the Ultra-Low Dose PET Imaging (UDPET) Challenge,
 
-Positron emission tomography (PET) in vivo visualizes the molecular pathway and is the most sensitive molecular imaging modality routinely applied in clinic. Ionization radiation burden is a major concern in the practice of PET imaging, which hampers the application in many situation. Recent development in PET dramatically increased the effective sensitivity by increasing the geometric coverage, which is confirmed to be able to reduce approximately 10 times radiation exposure. This encouraging breakthrough brings the hope of low statistics corresponding to low dose PET imaging equivalent to transatlantic flight with the assistance of advanced computational methods.
+We would like to express our sincere gratitude for your interest and valuable contributions to the UDPET imaging challenge over the past two years. We are thrilled to announce the continuation of the challenge with UDPET 2024. This year’s challenge will incorporate a broader and more diverse dataset acquired on two commercial Total-Body PET systems, uExplorer (United Imaging) and Biograph  Vision Quadra (Siemens Healthineers), to solidify the trust in methodological developments and enhance the clinical translational potential of the outcomes.
 
-![](https://rumc-gcorg-p-public.s3.amazonaws.com/i/2021/10/12/figure.jpg)  
+A comprehensive workshop will be held at IEEE MIC 2024 on October 29th. Participants ranked within the top 10 will be invited to present their work at the IEEE MIC 2024 Ultra-low-dose PET imaging workshop, which can be found at the following link: https://nssmic.ieee.org/2024/program/.
 
-This challenge aims to develop computational algorithms capable of recovering high-quality imaging from low statistics corresponding to low dose scans, with the hope of reducing the radiation exposure to be equivalent to transatlantic flight.
+## Important Dates
 
-Organizers: Kuangyu Shi, Rui Guo, Christoph Clement, Hanzhong Wang, Fanxuan Liu, Axel Rominger, Biao Li
+- Availability of the test dataset and evaluation code: Aug. 1st: https://drive.google.com/drive/folders/1iz0qi0VMpVpEfYOE0Lmadjyp_p_-19BM
+- Pre-register via email to christoph.clement@students.unibe.ch to confirm a submission: Oct. 1st (DDL_1)
+- Final submission deadline:  Oct. 8 (DDL_2)
+- Notification of rankings and invitations will be sent out on: Oct. 15th
 
-Respected Advisory Board Members: Prof. Thomas Beyer, Vienna; Prof. Ronald Boellaard, Amsterdam; Prof. Simon Cherry, UC Davis; Dr. Maurizio Conti, Siemens Healthineers; Prof. Terry Jones, UC Davis; Dr. Hongdi Li, United Imaging; Prof. Nassir Navab, TU Munich; Prof. Jinyi Qi, UC Davis; Prof. Julia Schnabel,Helmholtz Center; Prof. Suleman Surti, UPenn; Prof. Kris Thielemans, UCL; Prof. Stefaan Vandenberghe, Ghent; Prof. Dimitris Visvikis, INSERM; Prof. Lifeng Yu, Mayo Clinic
+We will provide updates and announcements regarding the challenge on our website: https://udpet-challenge-2024.github.io/
+
+## Participation Requirements:
+To ensure successful participation and eligibility for prizes, all participants must adhere to the following requirements:
+
+- Pre-register via Email before DDL_1
+- Submit the necessary material before the DDL_2 of 23:59 (pacific day time)
+    - A short paper or abstract about your method
+    - Algorithms scripts or link to your Github repository
+    - Generated Full dose image, recovered from dose reduced images in Test dataset
+    
+Should you have any questions or require further clarification, please do not hesitate to contact us. We wish you the best of luck in the UDPET challenge.
+
+Best regards,
+
+Kuangyu Shi, Rui Guo, Christoph Clement, Hanzhong Wang, Axel Rominger and Biao Li
+
