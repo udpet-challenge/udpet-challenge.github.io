@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Ultra-Low Dose PET Imaging (UDPET) Challenge 2024
+title: Ultra-Low Dose PET Imaging Challenge 2024
 ---
 
 ![](assets/overview.jpg)
