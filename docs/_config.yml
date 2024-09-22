@@ -1,0 +1,9 @@
+theme: minima
+title: Ultra-Low Dose PET Imaging (UDPET) Challenge
+description: A challenge to develop computational algorithms for recovering high-quality imaging from low statistics corresponding to low dose scans
+
+header_pages:
+  - announcement.md
+  - dataset.md
+  - evaluation.md
+  - rules.md
