@@ -3,6 +3,8 @@ layout: home
 title: Ultra-Low Dose PET Imaging (UDPET) Challenge 2024
 ---
 
+![](assets/overview.jpg)
+
 Dear participants of the Ultra-Low Dose PET Imaging (UDPET) Challenge,
 
 We would like to express our sincere gratitude for your interest and valuable contributions to the UDPET imaging challenge over the past two years. We are thrilled to announce the continuation of the challenge with UDPET 2024. This year’s challenge will incorporate a broader and more diverse dataset acquired on two commercial Total-Body PET systems, uExplorer (United Imaging) and Biograph  Vision Quadra (Siemens Healthineers), to solidify the trust in methodological developments and enhance the clinical translational potential of the outcomes.
@@ -11,12 +13,12 @@ A comprehensive workshop will be held at IEEE MIC 2024 on October 29th. Particip
 
 ## Important Dates
 
-- Availability of the test dataset and evaluation code: Aug. 1st: https://drive.google.com/drive/folders/1iz0qi0VMpVpEfYOE0Lmadjyp_p_-19BM
-- Pre-register via email to christoph.clement@students.unibe.ch to confirm a submission: Oct. 1st (DDL_1)
-- Final submission deadline:  Oct. 8 (DDL_2)
+- Availability of the test dataset and evaluation code: Aug. 1st: [https://drive.google.com/drive/folders/1iz0qi0VMpVpEfYOE0Lmadjyp_p_-19BM](https://drive.google.com/drive/folders/1iz0qi0VMpVpEfYOE0Lmadjyp_p_-19BM)
+- Pre-register via email to christoph.clement@students.unibe.ch to confirm a submission: **Oct. 1st (DDL_1)**
+- Final submission deadline:  **Oct. 8 (DDL_2)**
 - Notification of rankings and invitations will be sent out on: Oct. 15th
 
-We will provide updates and announcements regarding the challenge on our website: https://udpet-challenge-2024.github.io/
+We will provide updates and announcements regarding the challenge on our website: [https://udpet-challenge-2024.github.io/](https://udpet-challenge-2024.github.io/)
 
 ## Participation Requirements:
 To ensure successful participation and eligibility for prizes, all participants must adhere to the following requirements:

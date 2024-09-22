@@ -5,4 +5,7 @@ description: Ultra-Low Dose PET Imaging (UDPET) Challenge 2024
 header_pages:
   - dataset.md
   - evaluation.md
+  - rules.md
+  - submission.md
+  
 
