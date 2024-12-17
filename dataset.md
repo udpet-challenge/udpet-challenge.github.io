@@ -18,4 +18,5 @@ To access the data, please first download the Data Transfer Agreement (DTA) from
 
 [https://drive.google.com/file/d/1fJoeGNSAO9GFqWHoQn5T2WBBBwtOosXm/view?usp=sharing](https://drive.google.com/file/d/1fJoeGNSAO9GFqWHoQn5T2WBBBwtOosXm/view?usp=sharing)  
 
-You'll receive the download link for the dataset once you send back the signed DTA to: [christoph.clement@students.unibe.ch](mailto:christoph.clement@students.unibe.ch)
+You'll receive the download link for the dataset once you send back the signed DTA to: [yizhou.chen@students.unibe.ch](mailto:yizhou.chen@students.unibe.ch) OR [alejandro.lopez@unibe.ch](mailto:alejandro.lopez@unibe.ch)
+<!-- [christoph.clement@students.unibe.ch](mailto:christoph.clement@students.unibe.ch) -->
