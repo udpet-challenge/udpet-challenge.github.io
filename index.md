@@ -18,7 +18,7 @@ A comprehensive workshop will be held at IEEE MIC 2024 on October 29th. Particip
 - Final submission deadline:  **Oct. 8 (DDL_2)**
 - Notification of rankings and invitations will be sent out on: Oct. 15th
 
-We will provide updates and announcements regarding the challenge on our website: [https://udpet-challenge-2024.github.io/](https://udpet-challenge-2024.github.io/)
+We will provide updates and announcements regarding the challenge on our website: [https://udpet-challenge.github.io/](https://udpet-challenge.github.io/)
 
 ## Participation Requirements:
 To ensure successful participation and eligibility for prizes, all participants must adhere to the following requirements:
