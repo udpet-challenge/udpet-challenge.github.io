@@ -7,7 +7,7 @@ For successful participation and consideration for prizes, participants will b
 - A short paper or abstract about your method
 - Algorithms scripts or link to your Github repository  
 - Generated Full dose image, recovered from dose reduced images in Test dataset
-- Pre-registration via email to [christoph.clement@students.unibe.ch](mailto:christoph.clement@students.unibe.ch) by Oct. 1st to confirm a submission by the deadline (Oct. 8th). 
+- Pre-registration via email to [yizhou.chen@students.unibe.ch](mailto:yizhou.chen@students.unibe.ch) OR [alejandro.lopez@unibe.ch](mailto:alejandro.lopez@unibe.ch) by Oct. 1st to confirm a submission by the deadline (Oct. 8th). 
     
 Test dataset and evaluation code will available at a link here on Aug. 1st.
 
@@ -21,4 +21,4 @@ Submitted generated images should:
 - voxel value using the same unit as test.zip -- Bq/mL
 - all images are stored in compressed nifty file (.nii.gz)
 
-Submission should be directly send to [christoph.clement@students.unibe.ch](mailto:christoph.clement@students.unibe.ch) via Email
+Submission should be directly send to [yizhou.chen@students.unibe.ch](mailto:yizhou.chen@students.unibe.ch) OR [alejandro.lopez@unibe.ch](mailto:alejandro.lopez@unibe.ch) via Email
