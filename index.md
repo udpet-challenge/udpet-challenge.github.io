@@ -3,7 +3,7 @@ layout: home
 title: Ultra-Low Dose PET Imaging Challenge 2024
 ---
 
-![](assets/overview.jpg)
+
 
 ## Update!
 
@@ -17,7 +17,9 @@ You'll receive the download link for the dataset once you send back the signed D
 
 ---
 
-Below information is archived.
+**The information below is archived.**
+
+![](assets/overview.jpg)
 
 ## To Participants
 
