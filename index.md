@@ -5,6 +5,22 @@ title: Ultra-Low Dose PET Imaging Challenge 2024
 
 ![](assets/overview.jpg)
 
+## Update!
+
+You are welcome to download the train dataset of UDPET Challenge 2024 for research purpose.
+
+To access the data, please first download the Data Transfer Agreement (DTA) from the link below:
+
+[https://drive.google.com/file/d/1fJoeGNSAO9GFqWHoQn5T2WBBBwtOosXm/view?usp=sharing](https://drive.google.com/file/d/1fJoeGNSAO9GFqWHoQn5T2WBBBwtOosXm/view?usp=sharing)  
+
+You'll receive the download link for the dataset once you send back the signed DTA to: [yizhou.chen@students.unibe.ch](mailto:yizhou.chen@students.unibe.ch) OR [alejandro.lopez@unibe.ch](mailto:alejandro.lopez@unibe.ch)
+
+---
+
+Below information is archived.
+
+## To Participants
+
 Dear participants of the Ultra-Low Dose PET Imaging (UDPET) Challenge,
 
 We would like to express our sincere gratitude for your interest and valuable contributions to the UDPET imaging challenge over the past two years. We are thrilled to announce the continuation of the challenge with UDPET 2024. This year’s challenge will incorporate a broader and more diverse dataset acquired on two commercial Total-Body PET systems, uExplorer (United Imaging) and Biograph  Vision Quadra (Siemens Healthineers), to solidify the trust in methodological developments and enhance the clinical translational potential of the outcomes.
@@ -33,5 +49,5 @@ Should you have any questions or require further clarification, please do not he
 
 Best regards,
 
-Kuangyu Shi, Rui Guo, Christoph Clement, Hanzhong Wang, Axel Rominger and Biao Li
+Kuangyu Shi, Rui Guo, Christoph Clement, Hanzhong Wang, Axel Rominger, and Biao Li
 
