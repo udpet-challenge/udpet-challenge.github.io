@@ -1,13 +1,13 @@
 ---
 layout: home
-title: Ultra-Low Dose PET Imaging Challenge 2024
+title: Ultra-Low Dose PET Imaging Challenge 2025
 ---
 
 
 
 ## Update!
 
-You are welcome to download the train dataset of UDPET Challenge 2024 for research purpose.
+You are welcome to download the train dataset of UDPET Challenge 2025 for research purpose.
 
 To access the data, please first download the Data Transfer Agreement (DTA) from the link below:
 
@@ -26,16 +26,16 @@ You'll receive the download link for the dataset once you send back the signed D
 
 Dear participants of the Ultra-Low Dose PET Imaging (UDPET) Challenge,
 
-We would like to express our sincere gratitude for your interest and valuable contributions to the UDPET imaging challenge over the past two years. We are thrilled to announce the continuation of the challenge with UDPET 2024. This year’s challenge will incorporate a broader and more diverse dataset acquired on two commercial Total-Body PET systems, uExplorer (United Imaging) and Biograph  Vision Quadra (Siemens Healthineers), to solidify the trust in methodological developments and enhance the clinical translational potential of the outcomes.
+We would like to express our sincere gratitude for your interest and valuable contributions to the UDPET imaging challenge over the past two years. We are thrilled to announce the continuation of the challenge with UDPET 2025.
+A comprehensive workshop will be held at IEEE MIC 2025 on November 8th. Participants ranked within the top 10 will be invited to present their work at the IEEE MIC 2025 Ultra-low-dose PET imaging workshop, which can be found at the following link: https://nssmic.ieee.org/2025/program/.
 
-A comprehensive workshop will be held at IEEE MIC 2024 on October 29th. Participants ranked within the top 10 will be invited to present their work at the IEEE MIC 2024 Ultra-low-dose PET imaging workshop, which can be found at the following link: https://nssmic.ieee.org/2024/program/.
+- Availability of the test dataset and evaluation code: [https://drive.google.com/drive/folders/1iz0qi0VMpVpEfYOE0Lmadjyp_p_-19BM](https://drive.google.com/drive/folders/1iz0qi0VMpVpEfYOE0Lmadjyp_p_-19BM)
 
 ## Important Dates
 
-- Availability of the test dataset and evaluation code: Aug. 1st: [https://drive.google.com/drive/folders/1iz0qi0VMpVpEfYOE0Lmadjyp_p_-19BM](https://drive.google.com/drive/folders/1iz0qi0VMpVpEfYOE0Lmadjyp_p_-19BM)
-- Pre-register via email to christoph.clement@students.unibe.ch to confirm a submission: **Oct. 1st (DDL_1)**
-- Final submission deadline:  **Oct. 8 (DDL_2)**
-- Notification of rankings and invitations will be sent out on: Oct. 15th
+- Pre-register via email to alejandro.lopez@unibe.ch to confirm a submission: **Oct. 12th (DDL_1)**
+- Final submission deadline:  **Oct. 27 (DDL_2)**
+- Notification of rankings and invitations will be sent out on: Nov. 1st
 
 We will provide updates and announcements regarding the challenge on our website: [https://udpet-challenge.github.io/](https://udpet-challenge.github.io/)
 
@@ -52,5 +52,5 @@ Should you have any questions or require further clarification, please do not he
 
 Best regards,
 
-Kuangyu Shi, Rui Guo, Christoph Clement, Hanzhong Wang, Axel Rominger, and Biao Li
+Kuangyu Shi, Rui Guo, Alejandro Lopez-Montes, Yizhou Chen, Hanzhong Wang, Axel Rominger, and Biao Li
 
