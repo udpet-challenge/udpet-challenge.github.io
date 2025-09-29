@@ -7,7 +7,7 @@ For successful participation and consideration for prizes, participants will b
 - A short paper or abstract about your method
 - Algorithms scripts or link to your Github repository  
 - Generated Full dose image, recovered from dose reduced images in Test dataset
-- Pre-registration via email to [yizhou.chen@students.unibe.ch](mailto:yizhou.chen@students.unibe.ch) OR [alejandro.lopez@unibe.ch](mailto:alejandro.lopez@unibe.ch) by Oct. 1st to confirm a submission by the deadline (Oct. 8th). 
+- Pre-registration via email to [yizhou.chen@students.unibe.ch](mailto:yizhou.chen@students.unibe.ch) OR [alejandro.lopez@unibe.ch](mailto:alejandro.lopez@unibe.ch) by Oct. 12th to confirm a submission by the deadline (Oct. 27th). 
     
 Test dataset and evaluation code will available at a link here on Aug. 1st.
 
