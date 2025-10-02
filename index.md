@@ -18,7 +18,9 @@ You'll receive the download link for the dataset once you send back the signed D
 
 ---
 
-**The information below is archived.**
+<!-- **The information below is archived.** -->
+
+# UDPET Challenge 2025 is Coming !
 
 ![](assets/overview.jpg)
 
