@@ -31,7 +31,7 @@ Dear participants of the Ultra-Low Dose PET Imaging (UDPET) Challenge,
 We would like to express our sincere gratitude for your interest and valuable contributions to the UDPET imaging challenge over the past three years. We are thrilled to announce the continuation of the challenge with UDPET 2025.
 A comprehensive workshop will be held at IEEE MIC 2025 on November 8th. Participants ranked within the top 10 will be invited to present their work at the IEEE MIC 2025 Ultra-low-dose PET imaging workshop, which can be found at the following link: https://nssmic.ieee.org/2025/program/.
 
-- Availability of the test dataset and evaluation code: [https://drive.google.com/drive/folders/1iz0qi0VMpVpEfYOE0Lmadjyp_p_-19BM](https://drive.google.com/drive/folders/1iz0qi0VMpVpEfYOE0Lmadjyp_p_-19BM)
+- Availability of the evaluation code: [https://drive.google.com/file/d/1n2n1mqFz_QCP4G3A9pXk88TOrcdiWUNi/view?usp=sharing](https://drive.google.com/file/d/1n2n1mqFz_QCP4G3A9pXk88TOrcdiWUNi/view?usp=sharing)
 
 ## Important Dates
 
