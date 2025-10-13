@@ -38,7 +38,7 @@ A comprehensive workshop will be held at IEEE MIC 2025 on November 8th. Particip
 ## Important Dates
 
 - Pre-register via email to alejandro.lopez@unibe.ch to confirm a submission: **Oct. 12th (DDL_1)**
-- Final submission deadline:  **Oct. 27 (DDL_2)**
+- Final submission deadline:  **Oct. 27th (DDL_2)**
 - Notification of rankings and invitations will be sent out on: Nov. 1st
 
 We will provide updates and announcements regarding the challenge on our website: [https://udpet-challenge.github.io/](https://udpet-challenge.github.io/)
