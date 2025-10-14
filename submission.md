@@ -12,7 +12,8 @@ For successful participation and consideration for prizes, participants will b
 Test dataset and evaluation code will available at a link here on Aug. 1st.
 
 It includes:
-- test.zip: newly collected 50 subjects low statistics corresponding to low dose PET scanned with Siemens Biograph Vision Quadra (n=20) and United Imaging uEXPLORER (n=30). **To be noted: we will not provide the information of Dose reduction factor for each test case this year.**
+- test.zip: newly collected 50 subjects low statistics corresponding to low dose PET scanned with Siemens Biograph Vision Quadra (n=20) and United Imaging uEXPLORER (n=30). 
+<!-- **To be noted: we will not provide the information of Dose reduction factor for each test case this year.** -->
 - Organ\_segmentation\_example.zip: Examples of organ segmentations used for evaluation.
 
 Submitted generated images should:
