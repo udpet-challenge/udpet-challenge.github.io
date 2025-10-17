@@ -35,7 +35,7 @@ A comprehensive workshop will be held at IEEE MIC 2025 on November 8th. Particip
 
 - Test data release date: **Oct. 20th**. The test data will be in nifti format (Unit:Bq/ml) with an extra CSV file that contains meta information present in the dicom header (weight, injected activity, the difference between acquisition datetime and radiopharmaceutical start datetime, radioisotope half life). The decay correction attribute (dicom tag: (0054,1102)) of all the test data is "START" ([https://dicom.innolitics.com/ciods/positron-emission-tomography-image/pet-series/00541102](https://dicom.innolitics.com/ciods/positron-emission-tomography-image/pet-series/00541102)).
 
-Test Dataset: 
+Test Dataset: All the registered participants will receive an email containing the link to the test dataset before **Oct. 20th** if you do not receive it, please contact us.
 
 ## Important Dates
 

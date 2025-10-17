@@ -9,8 +9,6 @@ For successful participation and consideration for prizes, participants will b
 - Generated Full dose image in nifti format (Unit:Bq/ml), recovered from dose reduced images in Test dataset
 - Pre-registration via email to [yizhou.chen@students.unibe.ch](mailto:yizhou.chen@students.unibe.ch) OR [alejandro.lopez@unibe.ch](mailto:alejandro.lopez@unibe.ch) by Oct. 12th to confirm a submission by the deadline (Oct. 27th). 
     
-Test dataset and evaluation code will available at a link here on Aug. 1st.
-
 It includes:
 - test.zip: newly collected 50 subjects low statistics corresponding to low dose PET scanned with Siemens Biograph Vision Quadra (n=20) and United Imaging uEXPLORER (n=30). 
 <!-- **To be noted: we will not provide the information of Dose reduction factor for each test case this year.** -->
