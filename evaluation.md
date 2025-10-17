@@ -9,6 +9,8 @@ title: Evaluation
 
 Evaluation Code: [https://drive.google.com/file/d/1n2n1mqFz_QCP4G3A9pXk88TOrcdiWUNi/view?usp=sharing](https://drive.google.com/file/d/1n2n1mqFz_QCP4G3A9pXk88TOrcdiWUNi/view?usp=sharing)
 
+Test Dataset: 
+
 ## Ranking
 
 Team rankings are computed using weighted scores from each evaluation metric. We will calculate measures using python scripts. Evaluation code will be available together with training dataset so teams can test first. Detailed weights of each metrics as listed in the tables below:

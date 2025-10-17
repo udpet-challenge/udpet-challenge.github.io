@@ -35,6 +35,8 @@ A comprehensive workshop will be held at IEEE MIC 2025 on November 8th. Particip
 
 - Test data release date: **Oct. 20th**. The test data will be in nifti format (Unit:Bq/ml) with an extra CSV file that contains meta information present in the dicom header (weight, injected activity, the difference between acquisition datetime and radiopharmaceutical start datetime, radioisotope half life). The decay correction attribute (dicom tag: (0054,1102)) of all the test data is "START" ([https://dicom.innolitics.com/ciods/positron-emission-tomography-image/pet-series/00541102](https://dicom.innolitics.com/ciods/positron-emission-tomography-image/pet-series/00541102)).
 
+Test Dataset: 
+
 ## Important Dates
 
 - Pre-register via email to alejandro.lopez@unibe.ch to confirm a submission: **Oct. 12th (DDL_1)**
@@ -48,9 +50,13 @@ To ensure successful participation and eligibility for prizes, all participants 
 
 - Pre-register via Email before DDL_1
 - Submit the necessary material before the DDL_2 of 23:59 (pacific day time)
-    - A short paper or abstract about your method
+    - A short paper or abstract about your method (maximum 1-page or 500 words whatever is reached first)
     - Algorithms scripts or link to your Github repository
     - Generated Full dose image in nifti format (Unit:Bq/ml), recovered from dose reduced images in Test dataset
+
+- Prize: 1st Place 1600 USD, 2nd Place 1000 USD, 3rd Place 600 USD
+
+- The top 3 ranked teams will be eligible for an award and the best 5 classified teams will have the chance to present their work at theworkshop hosted at IEEE NSS/MIC on the 8th of November (10 mins talk + 2 mins questions).
     
 Should you have any questions or require further clarification, please do not hesitate to contact us. We wish you the best of luck in the UDPET challenge.
 
