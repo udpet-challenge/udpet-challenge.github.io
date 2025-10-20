@@ -56,7 +56,7 @@ To ensure successful participation and eligibility for prizes, all participants 
 - Submit the necessary material before the DDL_2 of 23:59 (pacific day time)
     - A short paper or abstract about your method (maximum 1-page or 500 words whatever is reached first)
     - Algorithms scripts or link to your Github repository
-    - Generated Full dose image in nifti format (Unit:Bq/ml), recovered from dose reduced images in Test dataset
+    - Generated Full dose image in nifti format (Unit:Bq/ml), recovered from dose reduced images in Test dataset (Please put all predictions in a separate folder and use the same filename as the input file. You can send us by email with a google drive link to your folder that contains your output test data.)
 
 
     
