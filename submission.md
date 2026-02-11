@@ -3,6 +3,21 @@ layout: page
 title: Submission
 ---
 
+
+# 🏆 UDPET Challenge 2025 — Winners Announcement
+
+Congratulations to the winners of the **UDPET Challenge 2025**!
+
+## 🥇 First Place  
+**Team of Ezzat Elmojarkach**
+
+## 🥈 Second Place  
+**Team of Seyed Amir Zaman Pour**
+
+## 🥉 Third Place  
+**Team of Pablo Cabrales**
+
+
 For successful participation and consideration for prizes, participants will be required to submit:  
 - A short paper or abstract about your method (maximum 1-page or 500 words whatever is reached first)
 - Algorithms scripts or link to your Github repository  

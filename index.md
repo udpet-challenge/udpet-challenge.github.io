@@ -18,7 +18,22 @@ You'll receive the download link for the dataset once you send back the signed D
 
 ---
 
+# 🏆 UDPET Challenge 2025 — Winners Announcement
+
+Congratulations to the winners of the **UDPET Challenge 2025**!
+
+## 🥇 First Place  
+**Team of Ezzat Elmojarkach**
+
+## 🥈 Second Place  
+**Team of Seyed Amir Zaman Pour**
+
+## 🥉 Third Place  
+**Team of Pablo Cabrales**
+
+
 <!-- **The information below is archived.** -->
+
 
 # UDPET Challenge 2025 is Coming !
 
