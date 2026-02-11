@@ -21,3 +21,31 @@ To access the data, please first download the Data Transfer Agreement (DTA) from
 
 You'll receive the download link for the dataset once you send back the signed DTA to: [yizhou.chen@students.unibe.ch](mailto:yizhou.chen@students.unibe.ch) OR [alejandro.lopez@unibe.ch](mailto:alejandro.lopez@unibe.ch)
 <!-- [christoph.clement@students.unibe.ch](mailto:christoph.clement@students.unibe.ch) -->
+
+## Issues
+
+The following cases are wrongly labeled as 18F-FDG. They are 68Ga-DOTA:
+
+Anonymous_ANO_20220224_1711567_102845
+
+Anonymous_ANO_20220224_1709580_104139
+
+Anonymous_ANO_20220224_1707578_105431
+
+Anonymous_ANO_20220224_1705576_110625
+
+Anonymous_ANO_20220224_1703593_111906
+
+Anonymous_ANO_20220224_1701584_113106
+
+Anonymous_ANO_20220224_1713571_101453
+
+
+In the test dataset:
+
+"Anonymous-06_DRF-50.nii.gz" and "Anonymous-48_DRF-50.nii.gz" are corrupted and have been removed from the test dataset
+
+In the original release of the test dataset, the SliceThickness_mm values for Quadra PET images in the provided csv file were incorrect. This has been corrected in the same link for the download but please, make sure you have the right csv.
+
+
+
