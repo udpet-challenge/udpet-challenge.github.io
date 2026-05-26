@@ -1,13 +1,13 @@
 ---
 layout: home
-title: Ultra-Low Dose PET Imaging Challenge 2025
+title: Ultra-Low Dose PET Imaging Challenge 2027
 ---
 
 
 
 ## Update!
 
-You are welcome to download the train dataset of UDPET Challenge 2025 for research purpose.
+We are currently updating the dataset and enhancing the quantifications of the current one. Coming soon we will have new data and new metrics for upcoming challenges. To enhance the quality of it, this year we are taking a break in the organization of the UDPET Challenge. We will come back in 2027 with an enhanced and renewed version of the challenge. In the meantime you can still access the data from previous challenges:
 
 To access the data, please first download the Data Transfer Agreement (DTA) from the link below:
 
